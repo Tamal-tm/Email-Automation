@@ -1,6 +1,7 @@
 # Email-Automation
 This project automates the process of sending, scheduling, and managing emails. It helps streamline communication tasks such as marketing campaigns, client follow-ups, notifications, and reminders without manual effort.
 
+
 Objectives
 
 Reduce time spent on repetitive email tasks
@@ -10,6 +11,7 @@ Ensure timely delivery of important messages
 Personalize emails at scale
 
 Track delivery, opens, and responses
+
 
 Key Features
 
