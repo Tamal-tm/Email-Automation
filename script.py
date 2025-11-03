@@ -6,7 +6,6 @@ import pyttsx3
 listener=sr.Recognizer()
 tts=pyttsx3.Engine()
 
-
 def talking_tom(text):
     tts.say(text)
     tts.runAndWait()
@@ -46,5 +45,6 @@ def main_code():
 
 
 main_code()
+
 
 
