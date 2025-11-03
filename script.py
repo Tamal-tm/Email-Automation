@@ -6,6 +6,7 @@ import pyttsx3
 listener=sr.Recognizer()
 tts=pyttsx3.Engine()
 
+
 def talking_tom(text):
     tts.say(text)
     tts.runAndWait()
@@ -42,5 +43,6 @@ def main_code():
     body=mic()
     send_mail(receiver,subject,body)
     print('Your email has been sent!') 
+
 
 main_code()
