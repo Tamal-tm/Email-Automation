@@ -11,7 +11,7 @@ Personalize emails at scale
 
 Track delivery, opens, and responses
 
-⚙️ Key Features
+Key Features
 
 Automated Scheduling: Send emails at predefined times or intervals
 
