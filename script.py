@@ -10,7 +10,6 @@ def talking_tom(text):
     tts.say(text)
     tts.runAndWait()
 
-
 def mic():
     with sr.Microphone() as source:
         print('Program is listening.')
@@ -46,6 +45,7 @@ def main_code():
 
 
 main_code()
+
 
 
 
